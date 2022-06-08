@@ -1,9 +1,7 @@
 <p align="center">
   <img width=”500" height=”500" background-size: "cover" src="https://user-images.githubusercontent.com/64576339/172644231-d81c867a-5ca2-4a78-9d0a-716fe112d03d.mp4" alt="my banner">
 </p>
-<!-- 
-
-https://user-images.githubusercontent.com/64576339/172639287-4fa467f5-985e-4b16-ba8d-3f8abe73f060.png-->
+<!-- https://user-images.githubusercontent.com/64576339/172639287-4fa467f5-985e-4b16-ba8d-3f8abe73f060.png -->
 <h3 align="center">
 Hi there, I'm Sumit Sarda 👋
 </h3>
