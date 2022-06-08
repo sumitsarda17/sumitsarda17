@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sumitsarda17/sumitsarda17/issues/1#issue-1264614539" alt="my banner">
+  <img src="![Black and Yellow Simple Dots Web Designer Email Signature](https://user-images.githubusercontent.com/64576339/172639287-4fa467f5-985e-4b16-ba8d-3f8abe73f060.png)" alt="my banner">
 </p>
 
 <h3 align="center">
