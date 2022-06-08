@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sumitsarda17/sumitsarda17/issues/2#issue-1264828756" alt="my banner">
+  <img width=”200" height=”200" src="https://github.com/sumitsarda17/sumitsarda17/issues/2#issue-1264828756" alt="my banner">
 </p>
 
 <h3 align="center">
