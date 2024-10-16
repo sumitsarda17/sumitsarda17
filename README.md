@@ -10,14 +10,15 @@ Hi there, I'm Sumit Sarda 👋
 Data Scientist and SME at Scaler 💻!
 </h2> 
 
-Data Scientist and Subject Matter Expert with 1.9 years of experience in developing data-driven solutions and leveraging advanced analytics to optimize learning outcomes.   
-Skilled in SQL and Python for data extraction, analysis, and automation, with hands-on experience in building predictive models to derive actionable insights.   
+- Data Scientist and Subject Matter Expert with 1.9 years of experience in developing data-driven solutions and leveraging advanced analytics to optimize learning outcomes.   
 
-At Scaler, led the development of data science modules, including Probability, Statistics, and Machine Learning, improving learner performance by 30%. Built machine learning models and algorithms that personalized the learning experience for students, enhancing engagement and boosting success rates.   
+- Skilled in SQL and Python for data extraction, analysis, and automation, with hands-on experience in building predictive models to derive actionable insights.   
 
-Proficient in creating compelling visualizations using Tableau and Looker Studio to translate complex datasets into strategic insights.   
+- At Scaler, led the development of data science modules, including Probability, Statistics, and Machine Learning, improving learner performance by 30%. Built machine learning models and algorithms that personalized the learning experience for students, enhancing engagement and boosting success rates.   
 
-Passionate about using data science techniques to solve real-world problems, enhance decision-making, and drive innovation in a dynamic, fast-paced environment.
+- Proficient in creating compelling visualizations using Tableau and Looker Studio to translate complex datasets into strategic insights.   
+
+- Passionate about Generative Ai and using it to solve real-world problems, enhance decision-making, and drive innovation in a dynamic, fast-paced environment.
 
 ### Connect with me 🤝
 
