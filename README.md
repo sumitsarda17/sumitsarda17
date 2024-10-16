@@ -7,10 +7,17 @@ Hi there, I'm Sumit Sarda 👋
 </h3>
 
 <h2 align="center">
-I'm a Data Analyst and potential Data Scientist 💻!
+Data Scientist and SME at Scaler 💻!
 </h2> 
 
-I'm excited to start my career in the feild of Data which is the New OIL of this generation. Through my analytical skills, knowledge of Data Analytics and ability, I'm looking to join the company where I can contribute and help them to get something useful from the RAW DATA out there and looking to learn and grow as well.
+Data Scientist and Subject Matter Expert with 1.9 years of experience in developing data-driven solutions and leveraging advanced analytics to optimize learning outcomes.   
+Skilled in SQL and Python for data extraction, analysis, and automation, with hands-on experience in building predictive models to derive actionable insights.   
+
+At Scaler, led the development of data science modules, including Probability, Statistics, and Machine Learning, improving learner performance by 30%. Built machine learning models and algorithms that personalized the learning experience for students, enhancing engagement and boosting success rates.   
+
+Proficient in creating compelling visualizations using Tableau and Looker Studio to translate complex datasets into strategic insights.   
+
+Passionate about using data science techniques to solve real-world problems, enhance decision-making, and drive innovation in a dynamic, fast-paced environment.
 
 ### Connect with me 🤝
 
@@ -21,14 +28,11 @@ I'm excited to start my career in the feild of Data which is the New OIL of this
 
 ## 🔭 I'm currently working on
 
-- implementing my Data Analyst knowledge to make a project
-- Movie recommender system
-- My Data Scientist skills
+- Improving my Deep Learning skills.
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
-- Few ML Algorithms
+- About GenAi and building projects on GenAi
 
 ## 💼 Technical Skills
 
